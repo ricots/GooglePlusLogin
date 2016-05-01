@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987412296508",
+    "project_id": "light-field-129715"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987412296508:android:8a861e3180c454af",
+        "android_client_info": {
+          "package_name": "num.app.gpluslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987412296508-2ppcl634kpdhiaii0efsrmdn46hll9mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "num.app.gpluslogin",
+            "certificate_hash": "6BB652A0071C53C4E79A59B20F94EB88EFE02CB5"
+          }
+        },
+        {
+          "client_id": "987412296508-k50o66t21l0uv9puhkdsk3jno4ps8cag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEiKSW8rM0NdnofF33UJSNJzpXKIT7UdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
